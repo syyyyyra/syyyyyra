@@ -31,7 +31,7 @@
 
   <br><br>
 
-  <!-- Connect section with hover-effect badges (static but styled) -->
+  <!-- Connect section with updated X badge -->
   <p align="center">
     <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" />
@@ -41,8 +41,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://x.com/yourhandle">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
   </p>
 
