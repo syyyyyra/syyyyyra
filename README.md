@@ -29,22 +29,7 @@
   <!-- GitHub Activity Graph with smooth gradient -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syyyyyra&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Rhythm" width="100%" />
 
-  <br><br>
 
-  <!-- Connect section with updated X badge -->
-  <p align="center">
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://x.com/yourhandle">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-  </p>
 
   <br>
 
