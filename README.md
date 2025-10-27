@@ -20,7 +20,7 @@
   <!-- Animated skill badges (pink-tinted) -->
   <p align="center">
     <a href="#">
-      <img src="https://raw.githubusercontent.com/syyyyyra/syyyyyra/main/assets/skills-animated-pink.svg" alt="Animated Skills" />
+      <img src="https://raw.githubusercontent.com/syyyyyra/syyyyyra/main/assets/skills-animated.svg" alt="Animated Skills" />
     </a>
   </p>
 
